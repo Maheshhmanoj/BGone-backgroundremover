@@ -1,0 +1,14 @@
+# Dependencies
+node_modules/
+
+# Source maps (large, not needed to run the extension)
+*.map
+
+# Logs / OS cruft
+*.log
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
